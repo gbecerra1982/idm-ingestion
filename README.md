@@ -80,7 +80,7 @@ func start
 - `/table-understanding`: mismo payload que `/table-extraction`.
 - `/table-analysis` espera además `tableUrl` (URL de la imagen de tabla en `-tables`).
 
-## Diagrama de Flujo (Mermaid)
+## Diagrama de Flujo
 
 ```mermaid
 graph TD
